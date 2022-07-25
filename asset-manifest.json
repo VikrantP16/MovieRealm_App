@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MovieRealm_App/static/css/main.19ab9f7d.css",
+    "main.js": "/MovieRealm_App/static/js/main.716ff3c0.js",
+    "index.html": "/MovieRealm_App/index.html",
+    "static/media/search.svg": "/MovieRealm_App/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.19ab9f7d.css.map": "/MovieRealm_App/static/css/main.19ab9f7d.css.map",
+    "main.716ff3c0.js.map": "/MovieRealm_App/static/js/main.716ff3c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19ab9f7d.css",
+    "static/js/main.716ff3c0.js"
+  ]
+}
